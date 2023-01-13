@@ -1,10 +1,13 @@
 body {
     font-family: 'Roboto', sans-serif;
-    color: blue;
+    color: black;
     font-weight: 400;
     line-height: 1;
     font-size: 20px;
     padding: 70px;
+    background-color: lightblue;
+    height: 100%;
+    width: 100%;
   }
   
   h1 {
@@ -17,4 +20,9 @@ body {
   }
   head {
     color: black;
+    height: 100%;
+    width: 100%;
+  }
+  h3 {
+    text-decoration: underline;
   }

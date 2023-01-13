@@ -8,18 +8,17 @@
     gap: 3rem;
 }
 
-  nav {background-color: blue;
+  nav {background-color: black;
     display: flex;
     align-items: center;
     padding: 3rem;
     gap: 1rem;
-    text-decoration-color: black;
+    text-decoration-color: white;
   }
   body {
     font-size: 20px;
     line-height: 2;
     font-family: sans-serif;
-    color: grey;
     margin: 0;
   }
   .material-symbols-outlined {
@@ -31,5 +30,9 @@
   }
   main {
     width: 760px;
+  }
+  body, html {
+    height: 100%;
+    width: 100%;
   }
   
