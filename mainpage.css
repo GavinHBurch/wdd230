@@ -8,10 +8,11 @@
     gap: 3rem;
 }
 
-  nav {background-color: grey;
+  nav {background-color: blue;
     display: flex;
     align-items: center;
-    padding: 1rem;
+    padding: 3rem;
+    gap: 1rem;
     text-decoration-color: black;
   }
   body {
@@ -31,3 +32,4 @@
   main {
     width: 760px;
   }
+  
